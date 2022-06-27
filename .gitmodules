@@ -1,0 +1,6 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/dependencyissue/common
+[submodule "calculator"]
+	path = calculator
+	url = https://github.com/dependencyissue/calculator
